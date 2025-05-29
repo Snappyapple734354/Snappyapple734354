@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Snappyapple734354, Vice President at Blue Hat Crew (BHC)
-- 👀 I’m interested in proxy devolopment, bypassing school restrictions
-- 🌱 I’m currently learning how to code in LUA and how to fully code in JS
+- 👦I am currently working on another business
 - 📫 How to reach me snappybluehatcrew@gmail.com
 
 <!---
